@@ -1,4 +1,4 @@
-const trashIds = [98512, 98521];
+const trashIds = require('./config.json').trashIds;
 
 module.exports = function trash_lootbeams(d)
 {
