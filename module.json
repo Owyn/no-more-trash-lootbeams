@@ -1,5 +1,12 @@
 {
 	"disableAutoUpdate": false,
+	"name": "no-more-trash-lootbeams",
+	"author": "Owyn",
+	"description": "Disables lootbeams over outdated useless trash items",
+	"options": {
+		"niceName": "Trash Lootbeams",
+		"guiName": "No more Trash Lootbeams"
+	},
 	"servers": ["https://raw.githubusercontent.com/Owyn/no-more-trash-lootbeams/master/"],
 	"supportUrl": "https://github.com/Owyn/no-more-trash-lootbeams/issues"
 }
