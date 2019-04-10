@@ -1,9 +1,9 @@
 {
 	"files": {
-		"README.md": "a752b8b4d3c4ceb536169ee3910b66580b0eb15f4da47c64a5e64c6600166515",
+		"README.md": "bd589a6c0b103a042976c12734f3d5fb1208de27a0639bcff1c03832a6383acd",
 		"config.json": {
 			"overwrite": false,
-			"hash": "f537da074cbf95a3c4add242022e51bb49406ee39565f46661223479737f91d4"
+			"hash": "33a7bb8f781ddcd6b644bb1c73e9b6e5fa703e604f6ca127c438d3158bcc2f2b"
 		},
 		"index.js": "50c4e4067c117e3c0644ca907d5fbea42cd72621e7266a158823eb91166fad3f",
 		"module.json": "1b0e2deb4b22e70f86a2dc52ad05e92a4c82a6b6f01580696a8d2d9d041f2778"
