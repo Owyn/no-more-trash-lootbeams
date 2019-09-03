@@ -5,10 +5,10 @@
 			"overwrite": false,
 			"hash": "33a7bb8f781ddcd6b644bb1c73e9b6e5fa703e604f6ca127c438d3158bcc2f2b"
 		},
-		"index.js": "50c4e4067c117e3c0644ca907d5fbea42cd72621e7266a158823eb91166fad3f",
+		"index.js": "476d7e5b90552f605facf1e413e2dd4933d9320d07a789942f303c6d6697250f",
 		"module.json": "1b0e2deb4b22e70f86a2dc52ad05e92a4c82a6b6f01580696a8d2d9d041f2778"
 	},
 	"defs": {
-		"S_SPAWN_DROPITEM": 6
+		"S_SPAWN_DROPITEM": 8
 	}
 }
